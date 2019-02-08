@@ -22,8 +22,6 @@ class App extends React.Component {
     this.onTermSubmit(randomItem, 5);
   }
   onTermSubmit = async (term, maxItem) => {
-    console.log("term", term);
-    console.log("maxItem", maxItem);
     const response = await youtube.get("/search", {
       params: {
         q: term,
