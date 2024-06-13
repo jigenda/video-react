@@ -8,7 +8,7 @@ This is a very simple reactjs project to showcase the passing of props to nested
 
 ## Developer
 
-Developed by Ronald Tuibeo - fullstack web developer. Enhancing my frontend skills in Reactjs in addition to my skills in Angular. I am also working my backend skills in Python, Golang, .Net Core and Elixir in addition to my 18 years PHP skills.
+Developed by me - fullstack web developer. Enhancing my frontend skills in Reactjs in addition to my skills in Angular. I am also working my backend skills in Python, Golang, .Net Core and Elixir in addition to my 18 years PHP skills.
 
 ## Contact
 
